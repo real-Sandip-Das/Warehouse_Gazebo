@@ -51,7 +51,9 @@
         </light>
         <!-- A ground plane -->
         <include>
-            <uri>model://ground_plane</uri>
+            <uri>
+                https://fuel.gazebosim.org/1.0/OpenRobotics/models/Ground Plane
+            </uri>
         </include>
 
         <model name="wall">
@@ -71,7 +73,7 @@
         <model name="A1">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -3 -2 0.009981 0.01 0 0 0 </pose>
+                <pose> -3 -2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -79,7 +81,7 @@
         <model name="A2">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -2 -2 0.009981 0.01 0 0 0 </pose>
+                <pose> -2 -2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -87,7 +89,7 @@
         <model name="A3">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -1 -2 0.009981 0.01 0 0 0 </pose>
+                <pose> -1 -2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -95,7 +97,7 @@
         <model name="A4">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 1 -2 0.009981 0.01 0 0 0 </pose>
+                <pose> 1 -2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -103,7 +105,7 @@
         <model name="A5">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 2 -2 0.009981 0.01 0 0 0 </pose>
+                <pose> 2 -2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -111,7 +113,7 @@
         <model name="A6">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 3 -2 0.009981 0.01 0 0 0 </pose>
+                <pose> 3 -2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -119,7 +121,7 @@
         <model name="B1">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -3 -1 0.009981 0.01 0 0 0 </pose>
+                <pose> -3 -1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -127,7 +129,7 @@
         <model name="B2">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -2 -1 0.009981 0.01 0 0 0 </pose>
+                <pose> -2 -1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -135,7 +137,7 @@
         <model name="B3">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -1 -1 0.009981 0.01 0 0 0 </pose>
+                <pose> -1 -1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -143,7 +145,7 @@
         <model name="B4">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 1. -1 0.009981 0.01 0 0 0 </pose>
+                <pose> 1. -1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -151,7 +153,7 @@
         <model name="B5">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 2 -1 0.009981 0.01 0 0 0 </pose>
+                <pose> 2 -1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -159,7 +161,7 @@
         <model name="B6">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 3 -1 0.009981 0.01 0 0 0 </pose>
+                <pose> 3 -1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -167,7 +169,7 @@
         <model name="C1">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -3 1 0.009981 0.01 0 0 0 </pose>
+                <pose> -3 1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -175,7 +177,7 @@
         <model name="C2">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -2 1 0.009981 0.01 0 0 0 </pose>
+                <pose> -2 1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -183,7 +185,7 @@
         <model name="C3">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -1 1 0.009981 0.01 0 0 0 </pose>
+                <pose> -1 1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -191,7 +193,7 @@
         <model name="C4">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 1 1 0.009981 0.01 0 0 0 </pose>
+                <pose> 1 1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -199,7 +201,7 @@
         <model name="C5">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 2 1 0.009981 0.01 0 0 0 </pose>
+                <pose> 2 1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -207,7 +209,7 @@
         <model name="C6">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 3 1 0.009981 0.01 0 0 0 </pose>
+                <pose> 3 1 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -215,7 +217,7 @@
         <model name="D1">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -3 2 0.009981 0.01 0 0 0 </pose>
+                <pose> -3 2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -223,7 +225,7 @@
         <model name="D2">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -2 2 0.009981 0.01 0 0 0 </pose>
+                <pose> -2 2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -231,7 +233,7 @@
         <model name="D3">
             <include>
                 <uri> model://shelf</uri>
-                <pose> -1 2 0.009981 0.01 0 0 0 </pose>
+                <pose> -1 2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -239,7 +241,7 @@
         <model name="D4">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 1 2 0.009981 0.01 0 0 0 </pose>
+                <pose> 1 2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -247,7 +249,7 @@
         <model name="D5">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 2 2 0.009981 0.01 0 0 0 </pose>
+                <pose> 2 2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 
@@ -255,7 +257,7 @@
         <model name="D6">
             <include>
                 <uri> model://shelf</uri>
-                <pose> 3 2 0.009981 0.01 0 0 0 </pose>
+                <pose> 3 2 0.009981 0.01 0 0 </pose>
             </include>
         </model>
 

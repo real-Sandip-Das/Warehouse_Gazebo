@@ -33,7 +33,7 @@
                 </geometry>
                 <material>
                     <script>
-                        <uri>file://usr/share/gazebo-11/media/materials/scripts/gazebo.material</uri>
+                        <uri>file://media/materials/scripts/gazebo.material</uri>
                         <name>Gazebo/White</name>
                     </script>
                 </material>
@@ -70,7 +70,7 @@
                 </geometry>
                 <material>
                     <script>
-                        <uri>file://usr/share/gazebo-11/media/materials/scripts/gazebo.material</uri>
+                        <uri>file://media/materials/scripts/gazebo.material</uri>
                         <name>Gazebo/White</name>
                     </script>
                 </material>
@@ -107,7 +107,7 @@
                 </geometry>
                 <material>
                     <script>
-                        <uri>file://usr/share/gazebo-11/media/materials/scripts/gazebo.material</uri>
+                        <uri>file://media/materials/scripts/gazebo.material</uri>
                         <name>Gazebo/White</name>
                     </script>
                 </material>
@@ -144,7 +144,7 @@
                 </geometry>
                 <material>
                     <script>
-                        <uri>file://usr/share/gazebo-11/media/materials/scripts/gazebo.material</uri>
+                        <uri>file://media/materials/scripts/gazebo.material</uri>
                         <name>Gazebo/White</name>
                     </script>
                 </material>
@@ -181,7 +181,7 @@
                 </geometry>
                 <material>
                     <script>
-                        <uri>file://usr/share/gazebo-11/media/materials/scripts/gazebo.material</uri>
+                        <uri>file://media/materials/scripts/gazebo.material</uri>
                         <name>Gazebo/White</name>
                     </script>
                 </material>
@@ -218,7 +218,7 @@
                 </geometry>
                 <material>
                     <script>
-                        <uri>file://usr/share/gazebo-11/media/materials/scripts/gazebo.material</uri>
+                        <uri>file://media/materials/scripts/gazebo.material</uri>
                         <name>Gazebo/White</name>
                     </script>
                 </material>
